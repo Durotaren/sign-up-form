@@ -156,3 +156,7 @@ button {
   margin-left: 2rem;
   font-size: 1.25rem;
 }
+
+.log-in:hover {
+  color: rgb(255, 72, 0);
+}
