@@ -161,3 +161,12 @@ button {
 .log-in:hover {
   color: rgb(255, 72, 0);
 }
+
+#first-name:user-invalid,
+#last-name:user-invalid,
+#phone-number:user-invalid,
+#email:user-invalid,
+#pwd:user-invalid,
+#pwd-confirm:user-invalid{
+  box-shadow: 0 0 10px 4px rgba(255, 0, 0, 0.7);
+}
